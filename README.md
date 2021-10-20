@@ -2,3 +2,5 @@
 środa nieparzysta
 
 zmiana lokalna
+
+zmiany na githubie
